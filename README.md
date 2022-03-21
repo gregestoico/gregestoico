@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gregestoico, computer engineering studant at CEFET-MG.
+- 👋 Hi, I’m Thiago Araújo, @gregestoico, computer engineering studant at CEFET-MG.
 - 👀 I’m interested in make the world a better place through my job as a programmer. 
 - 🌱 I’m currently learning dotnet, lua and python.
 - 💞️ I’m looking to collaborate on opensource projects developed in dotnet, lua and python.
